@@ -8,11 +8,14 @@ end
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
+gem 'activeadmin'
+gem 'chartkick', '~> 2.2.0'
 gem 'devise', git: 'https://github.com/plataformatec/devise'
 gem 'font-awesome-sass', '~> 4.7.0'
 gem 'faker'
 gem 'geocoder'
 gem 'gmaps4rails'
+gem 'groupdate'
 # Use sqlite3 as the database for Active Record
 gem 'sqlite3'
 # Use Puma as the app server
